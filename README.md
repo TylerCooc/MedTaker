@@ -48,3 +48,16 @@ Follow these steps to set up and run the project:
 
 5. **Run the API:**
    Press `F5` or use the "Start Debugging" button to run the API. Alternatively, use `Ctrl + F5` to start without debugging.
+
+### Client set up
+1. **Open The Client:**
+   In a command prompt cd MedTaker -> cd Client -> cd src -> code . (to open the project file)
+
+2. **Install**
+   npm install
+
+3. **Run Angular Development Server**
+   ng serve
+
+4. **View Application**
+   Open web browser and navigate to http://localhost:4200/ to view the Angular application.
