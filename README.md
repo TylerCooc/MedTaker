@@ -1,4 +1,4 @@
-# MedTaker
+### MedTaker
 
 MedTaker is a user-friendly web app designed for effortlessly tracking the medicine consumption of users. 
 Effortlessly handle your medicine inventory and associated entries. This app allows users to:
