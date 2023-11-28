@@ -23,6 +23,7 @@ Before you begin, ensure you have the following software installed on your machi
 - [Node.js](https://nodejs.org/) (version 16.2.0 or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - [Visual Studio](https://visualstudio.microsoft.com/) (version 2019 or compatible)
+- [Visual Studio Code](https://code.visualstudio.com/) (optional for code editing)
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
   
 ### Installation
